@@ -1,0 +1,27 @@
+{
+  "name": "nodejsexpress",
+  "version": "1.0.0",
+  "description": "Uso basico de express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iscomar001/NodejsExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iscomar001/NodejsExpress/issues"
+  },
+  "homepage": "https://github.com/iscomar001/NodejsExpress#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
